@@ -1,24 +1,34 @@
-## Hi, i'm Farid Kianfar
+## Hi, i'm Farid Kianfar 👋
 > Expert Web and Software developer
-### About me
+
+### About me 💬
 Programmer for over 12 years. I spent many years learning, practicing and teaching. I started with front-end development for the first two years, and after that worked as a full-stack developer.
-### Skills
-| Title                         | Field                         | Level                         |
+
+### Skills 💪
+| Title                         | Field                         | Level `1-10`                  |
 | :---------------------------- | :---------------------------- | :---------------------------- |
-| HTML                          | `Front-end`                   | ⭐⭐⭐⭐⭐                 |
-| CSS                           | `Front-end`                   | ⭐⭐⭐⭐⭐                 |
-| JSON                          | `data-interchange`            | ⭐⭐⭐⭐⭐                 |
-| XML                           | `Front-end`                   | ⭐⭐⭐⭐⭐                 |
-| SVG                           | `Front-end`                   | ⭐⭐⭐⭐⭐                 |
-| JavaScript                    | `Front-end` & `Back-end`      | ⭐⭐⭐⭐⭐                 |
-| Bootstrap                     | `Front-end` & `Back-end`      | ⭐⭐⭐⭐⭐                 |
-| Electron                      | `Front-end` & `Back-end`      | ⭐⭐⭐⭐⭐                 |
-| React Native                  | `Front-end` & `Back-end`      | ⭐⭐⭐⭐⭐                 |
-| Flutter                       | `Front-end` & `Back-end`      | ⭐⭐⭐⭐⭐                 |
-| Node.js                       | `Front-end` & `Back-end`      | ⭐⭐⭐⭐⭐                 |
-| Bootstrap                     | `Front-end` & `Back-end`      | ⭐⭐⭐⭐⭐                 |
+| HTML                          | `Front-end`                   | `10`                          |
+| CSS                           | `Front-end`                   | `10`                          |
+| JSON                          | `Data-interchange`            | `10`                          |
+| XML                           | `Front-end`                   | `10`                          |
+| SVG                           | `Front-end`                   | `10`                          |
+| JavaScript                    | `Front-end` & `Back-end`      | `10`                          |
+| C                             | `Programming Language`        | `7`                           |
+| C++                           | `Programming Language`        | `6`                           |
+| Java                          | `Programming Language`        | `9`                           |
+| PHP                           | `Programming Language`        | `7`                           |
+| Python                        | `Programming Language`        | `10`                          |
+| Django                        | `Web framework`               | `10`                          |
+| ASP.NET                       | `Web-application framework`   | `7`                           |
+| Bootstrap                     | `Front-end framework`         | `10`                          |
+| Electron                      | `Software framework`          | `10`                          |
+| React Native                  | `Software framework`          | `6`                           |
+| Flutter                       | `Multi-platform framework`    | `6`                           |
+| Node.js                       | `Server environment`          | `7`                           |
+| Mysql                         | `RDBMS`                       | `10`                          |
 
-
+### Find me elsewhere 🌍
+- linkedin : https://www.linkedin.com/in/iamkianfar/
 
 
 <!---
