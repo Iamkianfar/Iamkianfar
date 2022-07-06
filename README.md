@@ -29,6 +29,8 @@ Programmer for over 12 years. I spent many years learning, practicing and teachi
 
 ### Find me elsewhere 🌍
 - twitter : [@iamkianfar](https://twitter.com/iamkianfar/)
+- dribbble : [@iamkianfar](https://dribbble.com/iamkianfar/)
+- instagram : [@iamkianfar](https://instagram.com/iamkianfar/)
 - linkedin : [@iamkianfar](https://www.linkedin.com/in/iamkianfar/)
 
 
