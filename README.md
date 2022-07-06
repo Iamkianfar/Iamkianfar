@@ -25,7 +25,7 @@ Programmer for over 12 years. I spent many years learning, practicing and teachi
 | React Native                  | `Software framework`          | `6`                           |
 | Flutter                       | `Multi-platform framework`    | `6`                           |
 | Node.js                       | `Server environment`          | `7`                           |
-| Mysql                         | `RDBMS`                       | `10`                          |
+| MySql                         | `RDBMS`                       | `10`                          |
 
 ### Find me elsewhere 🌍
 - linkedin : [@iamkianfar](https://www.linkedin.com/in/iamkianfar/)
