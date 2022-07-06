@@ -28,6 +28,7 @@ Programmer for over 12 years. I spent many years learning, practicing and teachi
 | MySql                         | `RDBMS`                       | `10`                          |
 
 ### Find me elsewhere 🌍
+- twitter : [@iamkianfar](https://twitter.com/iamkianfar/)
 - linkedin : [@iamkianfar](https://www.linkedin.com/in/iamkianfar/)
 
 
